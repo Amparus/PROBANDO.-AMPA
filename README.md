@@ -10,8 +10,11 @@ SÁBADO 19/09/2020
 
 ##ESTAMOS APRENDIENDO A USAR GITHUB.
 
-https://www.emcasa.es/wp-content/uploads/Logo-Edem.jpg
+LOGO:
 
+# mda_analytics
+
+![Logo](https://lh3.googleusercontent.com/proxy/z6VD9hHCLOX1o0w4ROnlbYa1CXj0tmUvD4yhC4NYgH_QEEMjIMAYZtQfW86Md_jKYshxF60cToyR8IkOIwjI_5uoLMQ7_LE3OTQS23mVhhHUzQ_m1c9U)
 
 -revisar lenguaje markdown
 -entrar en stackedit para ver cómo dar formato al texto de este documento. 
