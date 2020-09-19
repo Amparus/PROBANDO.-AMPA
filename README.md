@@ -10,7 +10,7 @@ SÁBADO 19/09/2020
 
 ##ESTAMOS APRENDIENDO A USAR GITHUB.
 
-https://www.emcasa.es/quienes-somos/logo-edem/#iLightbox[postimages]/0
+https://www.emcasa.es/wp-content/uploads/Logo-Edem.jpg
 
 
 -revisar lenguaje markdown
